@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the paper below."
+title: "Data for: Turbulent arbitrage in reinsurance: Regulating capital and the cycle"
+type: dataset
+authors:
+  - family-names: Aslan
+    given-names: Ilker
+    orcid: "https://orcid.org/0000-0001-9241-9420"
+    affiliation: "Kalaidos University of Applied Sciences"
+license: CC-BY-4.0
+repository-code: "https://github.com/ilkeraslan/turbulent-arbitrage-reinsurance"
+keywords:
+  - real competition
+  - regulating capital
+  - reinsurance
+  - underwriting cycle
+  - alternative capital
+preferred-citation:
+  type: report
+  title: "Turbulent arbitrage in reinsurance: Regulating capital and the cycle"
+  authors:
+    - family-names: Aslan
+      given-names: Ilker
+      orcid: "https://orcid.org/0000-0001-9241-9420"
+      affiliation: "Kalaidos University of Applied Sciences"
+  institution:
+    name: "Kalaidos University of Applied Sciences"
+  year: 2026
+  url: "https://ilkeraslan.github.io/papers/turbulent-arbitrage-in-reinsurance.html"
